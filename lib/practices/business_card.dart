@@ -62,9 +62,9 @@ class BusinessCardScreen extends StatelessWidget {
                  
                   Text("Elif Dodanlı", style: TextStyle(fontWeight: FontWeight.bold),),
                   SizedBox(height: 4),
-                  Text("Mobile Engineer", style: TextStyle(fontWeight: FontWeight.bold),),
+                  Text("Mobile Engineer"),
                   SizedBox(height: 4),
-                  Text("elfdodanli@gmail.com", style: TextStyle(fontWeight: FontWeight.bold),)
+                  Text("elfdodanli@gmail.com")
                 ],
               ),
             ],
